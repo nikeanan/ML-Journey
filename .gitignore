@@ -1,0 +1,29 @@
+# Python & Environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# Environment / Security Secrets
+.env
+.env.*
+*.pem
+*.key
+*.secret
+secrets.json
+
+# Environment / OS / Logs
+.DS_Store
+*.log
+*.joblib
+
+
